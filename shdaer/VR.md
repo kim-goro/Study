@@ -92,7 +92,7 @@
 ## SDK 종류
 
 | Device | Target Platfrom | VR SDK | Unity Package |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | HTC Vive | Standalone | OpenVR | StreamVR Plugin |
 | Oculus Rift | Standalone | OpenVR | StreamVR Plugin |
 | Oculus Rift | Standalone | Oculus | Oculus Integration |
